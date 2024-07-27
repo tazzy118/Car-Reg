@@ -1,0 +1,15 @@
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\bin\Debug\net6.0\UK_Car_Reg.exe
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\bin\Debug\net6.0\UK_Car_Reg.deps.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\bin\Debug\net6.0\UK_Car_Reg.runtimeconfig.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\bin\Debug\net6.0\UK_Car_Reg.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\bin\Debug\net6.0\UK_Car_Reg.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\UK_Car_Reg.csproj.AssemblyReference.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\UK_Car_Reg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\UK_Car_Reg.AssemblyInfoInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\UK_Car_Reg.AssemblyInfo.cs
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\UK_Car_Reg.csproj.CoreCompileInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\UK_Car_Reg.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\refint\UK_Car_Reg.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\UK_Car_Reg.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\UK_Car_Reg.genruntimeconfig.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\UK_Car_Reg\UK_Car_Reg\obj\Debug\net6.0\ref\UK_Car_Reg.dll
